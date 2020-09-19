@@ -1,3 +1,14 @@
 h1, h2 {
   font-family: Lato;
 }
+
+body {
+  color: black;
+}
+
+h1 {
+  color: green;
+}
+
+p.solid{border-style: solid;
+      width: 300px;}
